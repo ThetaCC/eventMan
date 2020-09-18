@@ -22,5 +22,5 @@ end
 # Installation
 Run following in computercraft computer:
 ```
-wget 
+wget https://raw.githubusercontent.com/ThetaCC/eventMan/master/eventMan.lua
 ```
